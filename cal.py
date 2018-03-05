@@ -1,0 +1,13 @@
+a=input('Enter the number')
+b=input('enter the number')
+s=int(a)+int(b)
+c=int(a)-int(b)
+d=int(a)*int(b)
+e=int(a)/int(b)
+f=int(a)**int(b)
+print(s)
+print(c)
+print(d)
+print(e)
+print(f)
+
